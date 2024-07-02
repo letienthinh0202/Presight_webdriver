@@ -43,7 +43,7 @@ public class Demo1 {
     }
     @Test
     public void TC_01_Run_On_Firefox() throws InterruptedException {
-        String search = "sales";
+        String search = "sales last month";
 
 //        driver.get("https://staging.presight.io/login/");
 //        driver.findElement(By.xpath("//input[@class='chakra-input css-1qpupnb']")).
